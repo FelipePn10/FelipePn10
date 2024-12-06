@@ -1,12 +1,11 @@
-## Olá, eu sou Felipe Panosso! 👋
+## Olá! 👋
 
-🔗 **Bem-vindo ao meu perfil no GitHub!** Aqui você encontra uma coleção dos projetos que desenvolvo com muita dedicação e paixão pela programação.  
+🔗 **Bem-vindo ao meu perfil no GitHub!**.  
 
 ## 🧑‍💻 Sobre mim  
 - 🎓 Estudante de programação desde **2023**, cursando **Engenharia de Software**.  
 - 💼 Apaixonado por **tecnologia** e **esportes**.  
 - 🔍 Atualmente estou explorando **back-end** com **Golang**, enquanto aperfeiçoo minhas habilidades em **React**, **TypeScript**, **Node.js** e **Next.js**.  
-
 ---
 
 ## 🚀 Minhas Habilidades
@@ -25,24 +24,25 @@
 ### **Front-End**  
 - **HTML5**, **CSS3**, **JavaScript**  
 - **ReactJS**, **TypeScript**, **Styled-Components**, **TailwindCSS**  
-- **Next.js**, **Vite**, **SHADCN.UI**, **Aceternity UI**  
+- **Next.js**, **Vite**, **SHADCN.UI**
 
 ### **Back-End**  
-- **Node.js**, **Golang**, **Prisma**, **TRPC**, **Railway**  
-- **MySQL**, **Docker**  
+- **Node.js**, **Golang**, **TRPC**, **Railway**  
+- **MySQL**, **Postgress**, **Docker**  
 
 ### **Outros Conhecimentos**  
 - **Git**, **GitHub**, **VSCode**, **GoLand**  
-- Experiência com integração de **APIs** (ex.: Kinde, Clerk, IAs e mais).  
+- Experiência com integração de **APIs** (ex.: Kinde, Clerk, IAs[Cohere, OpenAi, Gemini..] e mais).  
 
 ---
 
 ## 📂 Meus Projetos Destaque  
 
 ### **💡 LuaPDF**  
-Uma plataforma poderosa para manipulação de PDFs:  
+Uma plataforma poderosa para manipulação de PDFs & Documentos:  
 - 📝 Anotações associadas a arquivos PDF.  
-- 📂 Gerenciamento de arquivos via dashboard moderno.  
+- 📂 Gerenciamento de arquivos via dashboard moderno.
+- 🤖 IA para auxiliar o usuário a navegar pelo documento.  
 - 🚀 Tecnologias: **Next.js**, **React**, **TRPC**, **TailwindCSS**, **MySQL** e **Prisma**.  
 
 ### **📜 Gerador de PDFs com Golang**  
@@ -60,4 +60,4 @@ Uma ferramenta flexível que possibilita:
 
 ## 📫 Entre em Contato  
 - 💌 **Email**: *felipepanosso3@gmail.com*  
-- 💼 **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)    
+- 💼 **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)  
