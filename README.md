@@ -3,15 +3,9 @@
 🔗 **Bem-vindo ao meu perfil no GitHub!** Aqui você encontra uma coleção dos projetos que desenvolvo com muita dedicação e paixão pela programação.  
 
 ## 🧑‍💻 Sobre mim  
-- 🎓 Estudante de programação desde **2023**, com o objetivo de cursar **Engenharia de Software** a partir de 2025.  
-- 💼 Apaixonado por **tecnologia** e **desenvolvimento de software**, com foco em entregar soluções criativas e funcionais.  
-- 🔍 Explorando **back-end** com **Golang**, enquanto aperfeiçoo minhas habilidades em **React**, **TypeScript**, **Node.js** e **Next.js**.  
-
----
-
-## 📈 Estatísticas  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipePn10&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePn10&layout=compact&theme=radical)  
+- 🎓 Estudante de programação desde **2023**, cursando **Engenharia de Software**.  
+- 💼 Apaixonado por **tecnologia** e **esportes**.  
+- 🔍 Atualmente estou explorando **back-end** com **Golang**, enquanto aperfeiçoo minhas habilidades em **React**, **TypeScript**, **Node.js** e **Next.js**.  
 
 ---
 
@@ -64,17 +58,6 @@ Uma ferramenta flexível que possibilita:
 
 ---
 
-## 📚 Minha Filosofia de Aprendizado  
-- 🌱 **Aprendizado contínuo** é meu lema. Sempre busco evoluir em tecnologias modernas e explorar novas linguagens como **Golang** e futuramente **Java**, **C**, e **Rust**.  
-- 🎯 Adoro resolver problemas e criar soluções que tenham impacto positivo.
-
-
----
-
 ## 📫 Entre em Contato  
 - 💌 **Email**: *felipepanosso3@gmail.com*  
 - 💼 **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)    
-
-✨ Obrigado por visitar meu perfil! Vamos criar algo incrível juntos?  
-
---- 
