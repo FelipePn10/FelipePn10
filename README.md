@@ -1,4 +1,4 @@
-## 🚀 Minhas Habilidades
+## 🚀 My Skills
 <div>
   <img align="center" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -15,6 +15,6 @@
           
 </div>
 
-## 📫 Entre em Contato  
+## 📫 Get in Touch  
 - 💌 **Email**: *felipepanosso3@gmail.com*  
 - 💼 **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)  
