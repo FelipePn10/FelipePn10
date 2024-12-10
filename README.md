@@ -15,5 +15,5 @@
 </div>
 
 ## 📫 Get in Touch  
-- 💌 **Email**: *felipepanosso3@gmail.com*  
+- ✉️ **Email**: *felipepanosso3@gmail.com*  
 - 💼 **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)  
