@@ -1,10 +1,10 @@
 ## Hey guys, welcome to my github profile! 👋
 #### I'm a junior software engineer, specialized in web development and I'm getting closer every day to finally specializing in backend
 
-✓ RactJs | NextJs | Vite 
-#
-✓ JavaScript | TypeScript 
-#
+### My Skills 
+
+- ✓ RactJs | NextJs | Vite
+- ✓ JavaScript | TypeScript 
 ✓ Golang 
 ✓ MySQL | PostgreSQL 
 ✓ Docker 
