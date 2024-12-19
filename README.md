@@ -1,17 +1,22 @@
-## Hey guys, welcome to my github profile! 👋
-#### I'm a junior software engineer, specialized in web development and I'm getting closer every day to finally specializing in backend
+## Hey guys, welcome to my GitHub profile! 👋  
+#### I'm a junior software engineer specializing in web development, currently focused on mastering backend development with Golang.  
 
-#### My Skills 
+#### My Skills  
 
-‎✓ RactJs | NextJs | Vite‎ 
-‎✓ JavaScript | TypeScript ‎ 
-‎✓ Golang ‎ 
-‎✓ MySQL | PostgreSQL ‎ 
-‎✓ Docker ‎ 
-‎✓ Clerk | Kinde ‎ 
-✓ Github | GitLab ‎ ‎ 
-‎✓ Linux | Windows ‎ 
+**Front-End**  
+- ReactJS | Next.js | Vite  
+- JavaScript | TypeScript  
+
+**Back-End**  
+- Golang  
+- MySQL | PostgreSQL  
+
+**Tools and Platforms**  
+- Docker  
+- Clerk | Kinde  
+- GitHub | GitLab  
+- Linux | Windows  
 
 ## 📫 Get in Touch  
--  **Email**: *felipepanosso3@gmail.com*  
--  **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)  
+- **Email**: *felipepanosso3@gmail.com*  
+- **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)
