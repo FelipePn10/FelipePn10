@@ -4,6 +4,7 @@
 ✓ RactJs | NextJs | Vite 
 #
 ✓ JavaScript | TypeScript 
+#
 ✓ Golang 
 ✓ MySQL | PostgreSQL 
 ✓ Docker 
