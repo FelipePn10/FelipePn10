@@ -9,7 +9,7 @@
 ✓ MySQL | PostgreSQL  
 ✓ Docker  
 ✓ Clerk | Kinde  
-✓ GitHub | GitLab  
+✓ GitHub | GitLab | GitKraken
 ✓ Linux | Windows  
 
 ## 📫 Entre em contato
