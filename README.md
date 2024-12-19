@@ -1,7 +1,7 @@
-## Hey guys, welcome to my GitHub profile! 👋  
-#### I'm a junior software engineer specializing in web development, currently focused on mastering backend development with Golang.  
+## Olá pessoal, sejam bem-vindos ao meu perfil no GitHub! 👋  
+#### Sou um engenheiro de software júnior especializado em desenvolvimento web, atualmente focado em dominar o desenvolvimento backend com Golang.  
 
-#### My Skills  
+#### Minhas habilidades
 
 ✓ ReactJS | Next.js | Vite  
 ✓ JavaScript | TypeScript  
@@ -12,6 +12,6 @@
 ✓ GitHub | GitLab  
 ✓ Linux | Windows  
 
-## 📫 Get in Touch  
+## 📫 Entre em contato
 - **Email**: *felipepanosso3@gmail.com*  
 - **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)
