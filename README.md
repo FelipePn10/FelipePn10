@@ -3,19 +3,14 @@
 
 #### My Skills  
 
-**Front-End**  
-- ReactJS | Next.js | Vite  
-- JavaScript | TypeScript  
-
-**Back-End**  
-- Golang  
-- MySQL | PostgreSQL  
-
-**Tools and Platforms**  
-- Docker  
-- Clerk | Kinde  
-- GitHub | GitLab  
-- Linux | Windows  
+✓ ReactJS | Next.js | Vite  
+✓ JavaScript | TypeScript  
+✓ Golang  
+✓ MySQL | PostgreSQL  
+✓ Docker  
+✓ Clerk | Kinde  
+✓ GitHub | GitLab  
+✓ Linux | Windows  
 
 ## 📫 Get in Touch  
 - **Email**: *felipepanosso3@gmail.com*  
