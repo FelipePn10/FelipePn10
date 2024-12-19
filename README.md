@@ -3,14 +3,14 @@
 
 #### My Skills 
 
-‎ ✓ RactJs | NextJs | Vite
-‎ ✓ JavaScript | TypeScript 
-‎ ✓ Golang 
-‎ ✓ MySQL | PostgreSQL 
-‎ ✓ Docker 
-‎ ✓ Clerk | Kinde 
-‎ ✓ Github | GitLab 
-‎ ✓ Linux | Windows 
+‎✓ RactJs | NextJs | Vite‎ 
+‎✓ JavaScript | TypeScript ‎ 
+‎✓ Golang ‎ 
+‎✓ MySQL | PostgreSQL ‎ 
+‎✓ Docker ‎ 
+‎✓ Clerk | Kinde ‎ 
+✓ Github | GitLab ‎ ‎ 
+‎✓ Linux | Windows ‎ 
 
 ## 📫 Get in Touch  
 -  **Email**: *felipepanosso3@gmail.com*  
