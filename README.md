@@ -8,7 +8,7 @@
 ✓ Golang | C  
 ✓ MySQL | PostgreSQL  
 ✓ Docker  
-✓ Clerk | Kinde  
+✓ Clerk | Kinde | Auth0  
 ✓ GitHub | GitLab | GitKraken  
 ✓ Linux | Windows  
 
