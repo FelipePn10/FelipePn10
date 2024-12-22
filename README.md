@@ -1,11 +1,11 @@
 ## Olá pessoal, sejam bem-vindos ao meu perfil no GitHub! 👋  
-#### Sou desenvolvedor junior especializado em desenvolvimento web, atualmente focado em dominar o desenvolvimento backend com Golang.  
+#### Sou desenvolvedor junior especializado em desenvolvimento web, atualmente focado em dominar o desenvolvimento backend.  
 
 #### Minhas habilidades
 
 ✓ ReactJS | Next.js | Vite  
 ✓ JavaScript | TypeScript  
-✓ Golang  
+✓ Golang | C  
 ✓ MySQL | PostgreSQL  
 ✓ Docker  
 ✓ Clerk | Kinde  
