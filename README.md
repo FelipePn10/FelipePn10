@@ -1,17 +1,17 @@
-## Olá pessoal, sejam bem-vindos ao meu perfil no GitHub! 👋  
-#### Sou desenvolvedor junior especializado em desenvolvimento web, atualmente focado em dominar o desenvolvimento backend.  
+## Hello everyone, welcome to my GitHub profile! 👋  
+#### I'm a junior developer specializing in web development, currently focused on mastering backend development.  
 
-#### Minhas habilidades
+#### My skills
 
 ✓ ReactJS | Next.js | Vite  
-✓ JavaScript | TypeScript  
-✓ Golang | C  
+✓JavaScript | Typescript  
+✓ Golang | W  
 ✓ MySQL | PostgreSQL  
 ✓ Docker  
-✓ Clerk | Kinde | Auth0  
-✓ GitHub | GitLab | GitKraken  
-✓ Linux | Windows  
+✓ Clerk | Type | Author0  
+✓ GitHub | GitLab | Git Kraken  
+✓Linux | Windows  
 
-## 📫 Entre em contato
+## 📫 Get in touch
 - **Email**: *felipepanosso3@gmail.com*  
 - **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)
