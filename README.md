@@ -1,5 +1,5 @@
 ## Hello everyone, welcome to my GitHub profile! 👋  
-#### I'm a junior developer specializing in web development, currently focused on mastering backend development.  
+#### I am a developer specialized in backend development and have high knowledge in the frontend area. I am currently studying Software Engineering at UniCV College (University Center)
 
 #### My skills
 
