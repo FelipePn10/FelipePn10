@@ -15,5 +15,5 @@
 ✓ Clerk | Type | Author0  
 
 ## 📫 Get in touch
-- **Email**: *felipepanosso3@gmail.com*  
+- **Email**: *panossodev@gmail.com*  
 - **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)
