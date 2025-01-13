@@ -12,7 +12,7 @@
 ✓ MySQL 
 ✓ ReactJS | Next.js | Vite  
 ✓ JavaScript | C   
-✓ Clerk | Type | Author0  
+✓ Clerk | Kinde
 
 ## 📫 Get in touch
 - **Email**: *panossodev@gmail.com*  
