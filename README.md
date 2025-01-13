@@ -2,7 +2,7 @@
 #### I am a developer specialized in backend development and have high knowledge in the frontend area. I am currently studying Software Engineering at UniCV College (University Center)
 
 #### My main areas of activity
-✓ Golang | TYpescript  
+✓ Golang | Typescript  
 ✓ PostgreSQL  
 ✓ Docker | JWT |OAUTH  
 ✓ GitHub | GitLab | Git Kraken  
