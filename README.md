@@ -4,7 +4,7 @@
 #### My main areas of activity
 ✓ Golang | Typescript  
 ✓ PostgreSQL  
-✓ Docker | JWT |OAUTH  
+✓ Docker 
 ✓ GitHub | GitLab | Git Kraken  
 ✓ Linux | Windows 
 
