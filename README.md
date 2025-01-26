@@ -5,7 +5,7 @@
 ✓ Golang | Typescript  
 ✓ PostgreSQL  
 ✓ GraphQL  
-✓ Docker 
+✓ Docker   
 ✓ GitHub | GitLab | Git Kraken  
 ✓ Linux | Windows 
 
