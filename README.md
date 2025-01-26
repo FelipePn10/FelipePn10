@@ -4,12 +4,13 @@
 #### My main areas of activity
 ✓ Golang | Typescript  
 ✓ PostgreSQL  
+✓ GraphQL  
 ✓ Docker 
 ✓ GitHub | GitLab | Git Kraken  
 ✓ Linux | Windows 
 
 #### My other skills
-✓ MySQL 
+✓ MySQL  
 ✓ ReactJS | Next.js | Vite  
 ✓ JavaScript | C   
 ✓ Clerk | Kinde
