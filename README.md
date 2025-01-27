@@ -3,9 +3,8 @@
 
 #### My main areas of activity
 ✓ Golang | Typescript  
-✓ PostgreSQL  
-✓ GraphQL  
-✓ Docker   
+✓ PostgreSQL | GraphQL    
+✓ Docker | Kubernetes    
 ✓ GitHub | GitLab | Git Kraken  
 ✓ Linux | Windows 
 
