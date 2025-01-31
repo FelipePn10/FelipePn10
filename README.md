@@ -11,7 +11,7 @@
 #### My other skills
 ✓ MySQL  
 ✓ ReactJS | Next.js | Vite  
-✓ JavaScript | C   
+✓ Java | C | JavaScript   
 ✓ Clerk | Kinde
 
 ## 📫 Get in touch
