@@ -17,4 +17,4 @@ I’m a backend and Web3 developer with strong expertise in frontend technologie
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
-✓ **LinkedIn:** [linkedin.com/in/felipe✓panosso](#)
+✓ **LinkedIn:** [linkedin.com/in/felipe-panosso](#)
