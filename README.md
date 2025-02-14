@@ -1,19 +1,20 @@
-## Hello everyone, welcome to my GitHub profile! 👋  
-#### I am a developer specialized in backend development and have high knowledge in the frontend area. I am currently studying Software Engineering at UniCV College (University Center)
+## 👋 Welcome to my GitHub Profile!  
 
-#### My main areas of activity
-✓ Golang | Java | Web 3.0       
-✓ PostgreSQL | GraphQL    
-✓ Docker | Kubernetes    
-✓ GitHub | GitLab | Git Kraken  
-✓ Linux | Windows 
+I’m a backend and Web3 developer with strong expertise in frontend technologies. Currently, I’m pursuing a **Software Engineering degree** at UniCV College (University Center).  
 
-#### My other skills
-✓ MySQL  
-✓ ReactJS | Next.js | Vite  
-✓ Typescript | C | JavaScript   
-✓ Clerk | Kinde
+### 🚀 Tech Stack  
+#### **Main Expertise**  
+- **Backend & Web3:** Golang | Solidity | Java  
+- **Frontend & Blockchain Integration:** React.js | Next.js | Web3.js | Ethers.js  
+- **Databases & Storage:** PostgreSQL | GraphQL | The Graph | IPFS  
+- **DevOps & Infrastructure:** Docker | Kubernetes  
+- **Version Control:** GitHub | GitLab | GitKraken  
+- **Operating Systems:** Linux | Windows  
 
-## 📫 Get in touch
-- **Email**: *panossodev@gmail.com*  
-- **LinkedIn**: [www.linkedin.com/in/felipe-panosso](#)
+#### **Other Skills**  
+- **Databases:** MySQL  
+- **Programming Languages:** TypeScript | C | JavaScript  
+
+### 📫 Get in Touch  
+- **Email:** *panossodev@gmail.com*  
+- **LinkedIn:** [linkedin.com/in/felipe-panosso](#)
