@@ -4,7 +4,7 @@ I’m a backend and Web3 developer with strong expertise in frontend technologie
 
 ### 🚀 Tech Stack  
 #### **Main Expertise**  
-✓ **Backend & Web3:** Golang | Solidity | Java  
+✓ **Backend & Web3:** Golang | Solidity | Java | C    
 ✓ **Frontend & Blockchain Integration:** React.js | Next.js | Web3.js | Ethers.js  
 ✓ **Databases & Storage:** PostgreSQL | GraphQL | The Graph | IPFS | Badger   
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
@@ -13,7 +13,7 @@ I’m a backend and Web3 developer with strong expertise in frontend technologie
 
 #### **Other Skills**  
 ✓ **Databases:** MySQL  
-✓ **Programming Languages:** TypeScript | C | JavaScript  
+✓ **Programming Languages:** TypeScript | JavaScript    
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
