@@ -6,7 +6,7 @@ I’m a backend and Web3 developer with strong expertise in frontend technologie
 #### **Main Expertise**  
 ✓ **Backend & Web3:** Golang | Solidity | Java | C    
 ✓ **Frontend & Blockchain Integration:** React.js | Next.js | Ethers.js  
-✓ **Databases & Storage:** PostgreSQL | GraphQL | The Graph | IPFS | Badger   
+✓ **Databases & Storage:** PostgreSQL | GraphQL | The Graph | IPFS | Badger | Railway       
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
 ✓ **Version Control:** GitHub | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
