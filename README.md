@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub Profile!  
 
-I’m a backend and Web3 developer with strong expertise in frontend technologies. Currently, I’m pursuing a **Software Engineering degree** at UniCV College (University Center).  
+I’m a backend developer with strong expertise in frontend technologies. Currently, I’m pursuing a **Software Engineering degree** at UniCV College (University Center).  
 
 ### 🚀 Tech Stack  
 #### **Main Expertise**  
