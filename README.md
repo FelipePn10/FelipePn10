@@ -10,6 +10,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
 ✓ **Version Control:** GitHub | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
+✓ **Readable automated tests:** Cucumber  
 
 #### **Other Skills**  
 ✓ **Databases:** PostgresSQL  
