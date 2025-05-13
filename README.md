@@ -8,7 +8,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 ✓ **Frontend & Blockchain Integration:** React.js | Next.js | Ethers.js  
 ✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis       
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
-✓ **Version Control:** GitHub | GitLab | GitKraken  
+✓ **Version Control:** Git | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
 ✓ **Readable automated tests:** Cucumber | Cypress  
 
