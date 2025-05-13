@@ -4,7 +4,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 
 ### 🚀 Tech Stack  
 #### **Main Expertise**  
-✓ **Backend & Web3:** Golang | Solidity | TypeScript | Java    
+✓ **Backend & Web3:** Golang | Java | Typescript    
 ✓ **Frontend & Blockchain Integration:** React.js | Next.js | Ethers.js  
 ✓ **Databases & Storage:** MySQL | GraphQL | Railway | Redis       
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
@@ -14,7 +14,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 
 #### **Other Skills**  
 ✓ **Databases:** PostgresSQL  
-✓ **Programming Languages:** C | JavaScript    
+✓ **Programming Languages:** C | JavaScript | Shell (basic) | Solidity (basic)    
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
