@@ -6,14 +6,14 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 #### **Main Expertise**  
 ✓ **Backend & Web3:** Golang | Java | Typescript    
 ✓ **Frontend & Blockchain Integration:** React.js | Next.js | Ethers.js  
-✓ **Databases & Storage:** MySQL | GraphQL | Railway | Redis       
+✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis       
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
 ✓ **Version Control:** GitHub | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
 ✓ **Readable automated tests:** Cucumber | Cypress  
 
 #### **Other Skills**  
-✓ **Databases:** PostgresSQL  
+✓ **Databases:** GraphQL (basic)   
 ✓ **Programming Languages:** C | JavaScript | Shell (basic) | Solidity (basic)    
 
 ### 📫 Get in Touch  
