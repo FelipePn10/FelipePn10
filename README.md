@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub Profile!  
+## 👋 Welcome to my GitHub Profile!   
 
 I’m a backend developer with strong expertise in frontend technologies. Currently, I’m pursuing a **Software Engineering degree** at UniCV College (University Center).  
 
