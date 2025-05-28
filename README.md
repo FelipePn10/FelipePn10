@@ -13,7 +13,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 ✓ **Readable automated tests:** Cucumber | Cypress  
 
 #### **Other Skills**  
-✓ **Databases:** GraphQL (basic)   
+✓ **Databases:** GraphQL (basic)     
 ✓ **Programming Languages:** C | JavaScript | Shell (basic) | Solidity (basic)    
 
 ### 📫 Get in Touch  
