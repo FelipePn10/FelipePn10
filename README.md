@@ -12,7 +12,12 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 ✓ **Operating Systems:** Linux | Windows  
 ✓ **Readable automated tests:** Cucumber | Cypress  
 
-✓ **Architectural Patterns & Design Approaches:** RPC-based Communication using gRPC + Protobuf | RESTful APIs and GraphQL APIs | Microservices | Domain-Driven Design (DDD) | Clean Architecture    
+✓ **Architectural Patterns & Design Approaches:** 
+ - RPC-based Communication using gRPC + Protobuf      
+ - RESTful APIs and GraphQL APIs
+ - Microservices
+ - Domain-Driven Design (DDD)      
+ - Clean Architecture          
 
 #### **Other Skills**  
 ✓ **Programming Languages:** C | JavaScript | Shell (basic) | Solidity (basic)    
