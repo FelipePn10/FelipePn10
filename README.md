@@ -6,7 +6,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 #### **Main Expertise**  
 ✓ **Backend:** Golang | Java | Typescript    
 ✓ **Architectural Patterns & Design Approaches:** RPC-based Communication using gRPC + Protobuf | RESTful APIs and GraphQL APIs | Microservices | Domain-Driven Design (DDD) | Clean Architecture       
-✓ **Frontend & Blockchain Integration:** React.js | Next.js | Ethers.js  
+✓ **Frontend:** React.js | Vite |  Next.js | TailwindCSS
 ✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis       
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
 ✓ **Version Control:** Git | GitLab | GitKraken  
