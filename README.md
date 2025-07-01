@@ -4,8 +4,8 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 
 ### 🚀 Tech Stack  
 #### **Main Expertise**  
-✓ **Backend:** Golang | Java | Typescript       
-✓ **Frontend:** React.js | Vite |  Next.js | TailwindCSS       
+✓ **Backend:** Golang | Java        
+✓ **Frontend:** React.js | Next.js | Vite | TailwindCSS       
 ✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis   
 ✓ **Event Streaming & Messaging:** Apache Kafka      
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
@@ -21,7 +21,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
  ✓  Clean Architecture                
 
 #### **Other Skills**  
-✓ **Programming Languages:** C | JavaScript | Shell (basic) | Solidity (basic)    
+✓ **Programming Languages:** C | Typescript | JavaScript | Shell (basic) | Solidity (basic)    
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
