@@ -6,7 +6,8 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
 #### **Main Expertise**  
 ✓ **Backend:** Golang | Java | Typescript       
 ✓ **Frontend:** React.js | Vite |  Next.js | TailwindCSS       
-✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis       
+✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis   
+✓ **Event Streaming & Messaging:** Apache Kafka      
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
 ✓ **Version Control:** Git | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
