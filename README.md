@@ -1,11 +1,10 @@
 ## 👋 Welcome to my GitHub Profile!   
 
-I’m a backend developer with strong expertise in frontend technologies. Currently, I’m pursuing a **Software Engineering degree** at UniCV College (University Center).  
+Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Software Engineering at Centro Universitario Cidade Verde.
 
 ### 🚀 Tech Stack  
-#### **Main Expertise**  
-✓ **Backend:** Golang | Java        
-✓ **Frontend:** React.js | Next.js | Vite | TailwindCSS       
+
+✓ **Backend:** Golang | Java             
 ✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis   
 ✓ **Event Streaming & Messaging:** Apache Kafka      
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
@@ -21,7 +20,7 @@ I’m a backend developer with strong expertise in frontend technologies. Curren
  ✓  Clean Architecture                
 
 #### **Other Skills**  
-✓ **Programming Languages:** C | Typescript | JavaScript | Shell (basic) | Solidity (basic)    
+✓ **Programming Languages:** C | Shell
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
