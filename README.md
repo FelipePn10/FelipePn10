@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub Profile!   
+## Welcome to my GitHub Profile!   
 
 Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Software Engineering at Centro Universitario Cidade Verde.
 
