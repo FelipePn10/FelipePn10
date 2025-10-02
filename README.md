@@ -1,10 +1,10 @@
 ## Welcome to my GitHub Profile!   
 
-Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Software Engineering at Centro Universitario Cidade Verde.
+Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Software Engineering at Brazil.
 
 ### Tech Stack  
 
-✓ **Backend:** Golang | Java | C | Shell             
+✓ **Backend:** Golang | Java             
 ✓ **Databases & Storage:** PostgresSQL | MySQL | MongoDB | Railway | Redis   
 ✓ **Event Streaming & Messaging:** Apache Kafka      
 ✓ **DevOps & Infrastructure:** Docker | Kubernetes  
