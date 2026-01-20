@@ -20,8 +20,8 @@ Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Softw
  ✓  Domain-Driven Design (DDD)            
  ✓  Clean Architecture                
  
-**Language Processing & Compilers:**
-✓ ANTLR (Lexer, Parser, Grammar Design)
+ **Language Processing & Compilers:**       
+ ✓  ANTLR (Lexer, Parser, Grammar Design)            
 
 ### 📫 Get in Touch  
 ✓ **Email:** *panossodev@gmail.com*  
