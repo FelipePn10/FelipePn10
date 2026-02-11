@@ -7,7 +7,7 @@ Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Softw
 ✓ **Backend:** Golang | Java             
 ✓ **Databases & Storage:** PostgresSQL | MongoDB | Redis | Railway    
 ✓ **Event Streaming & Messaging:** Apache Kafka      
-✓ **DevOps & Infrastructure:** Docker | Kubernetes | Podman  
+✓ **DevOps & Infrastructure:** Docker | Podman  
 ✓ **Version Control:** Git | GitLab | GitKraken  
 ✓ **Operating Systems:** Linux | Windows  
 ✓ **Readable automated tests:** Cucumber | Cypress  
