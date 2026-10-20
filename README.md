@@ -4,7 +4,7 @@ Hi, my name is Felipe and I'm a Back-End developer. I'm currently studying Softw
 
 ### Tech Stack  
 
-✓ **Backend:** Golang | Java             
+✓ **Backend:** Golang             
 ✓ **Databases & Storage:** PostgresSQL | MongoDB | Redis | Railway    
 ✓ **Event Streaming & Messaging:** Apache Kafka      
 ✓ **DevOps & Infrastructure:** Docker | Podman  
